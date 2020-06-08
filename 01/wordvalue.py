@@ -1,4 +1,3 @@
-from functools import reduce
 from data import DICTIONARY, LETTER_SCORES
 
 def load_words():
